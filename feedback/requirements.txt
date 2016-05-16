@@ -1,0 +1,2 @@
+In section 1.2, developers and customers who want to develop the application are
+the primary target audience for this document.
