@@ -1,0 +1,4 @@
+The primary target audience for this document is you, the developer.
+This document is a reference for the later design phases.
+
+Score: 24/25
